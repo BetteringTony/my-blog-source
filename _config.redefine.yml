@@ -214,8 +214,8 @@ navbar:
     Tags: 
       path: /tags/
       icon: fa-regular fa-tags
-    Masonry:
-      path: /images/
+    Photo:
+      path: /photo/
       icon: fa-regular fa-image
     About: 
       path: /about/
