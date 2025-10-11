@@ -131,8 +131,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/wallhaven-wqery6-light.webp # light mode
-    dark: /images/wallhaven-wqery6-dark.webp # dark mode
+    light: /images/beijing.png # light mode
+    dark: /images/beijing.png # dark mode
   # Home banner title
   title: Tony's Blog
   # Home banner subtitle
@@ -150,8 +150,8 @@ home_banner:
     smart_backspace: true # Whether to smart backspace
   # Color of home banner text
   text_color: 
-    light: "#eef1ed" # light mode
-    dark: "#d1d1b6" # dark mode
+    light: "#0e1d0a" # light mode
+    dark: "#0e1d0a" # dark mode
   # Specific style of the text
   text_style: 
     # Title font size
@@ -193,8 +193,8 @@ navbar:
   auto_hide: false
   # Navbar background color
   color:
-    left: "#f78736" #left side 
-    right: "#367df7"  #right side
+    left: "#000000" #left side 
+    right: "#000000"  #right side
     transparency: 35 #percent (10-99)
   # Navbar width (usually no need to modify)
   width:
@@ -467,7 +467,7 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
   # Whether to enable CDN
-  enable: false
+  enable: true
   # CDN Provider
   provider: npmmirror # npmmirror, zstatic, cdnjs, jsdelivr, unpkg, custom
   # Custom CDN URL
