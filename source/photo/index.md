@@ -1,5 +1,0 @@
----
-title: photo
-date: 2025-10-10 21:38:04
-template: photo
----

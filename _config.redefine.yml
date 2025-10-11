@@ -214,9 +214,6 @@ navbar:
     Tags: 
       path: /tags/
       icon: fa-regular fa-tags
-    Photo:
-      path: /photo/
-      icon: fa-regular fa-image
     About: 
       path: /about/
       icon: fa-regular fa-user
